@@ -1,0 +1,51 @@
+SELECT *
+FROM crimedata.crimedataraw
+LIMIT 5;
+
+SELECT report_date, neighborhood
+FROM crimedata.crimedataraw
+limit 10;
+
+SELECT report_date, report_time, address
+FROM crimedata.crimedataraw
+WHERE extract(hour from report_time) = 10
+limit 10;
+
+
+/*split_part(string text, delimiter text, field int)*/
+SELECT split_part(address, ' ', 2)
+FROM crimedata.crimedataraw
+limit 10;
+
+SELECT format('On %s some totally mean person did some %s at %s oclock', report_date, major_offense_type, report_time)
+FROM crimedata.crimedataraw
+LIMIT 10
+
+SELECT id
+FROM crimedata.crimedataraw
+ORDER BY id asc
+LIMIT 2
+
+SELECT id
+FROM crimedata.crimedataraw
+ORDER BY id desc
+LIMIT 2
+
+SELECT neighborhood, count(*)
+FROM crimedata.crimedataraw
+GROUP BY neighborhood
+ORDER BY count(*) desc
+
+SELECT neighborhood, max(xcoordinate) AS max_x, min(xcoordinate) as min_x, max(ycoordinate) as max_y, min(ycoordinate) as min_y
+FROM crimedata.crimedataraw
+GROUP BY neighborhood
+
+SELECT count(*), extract(hour from report_time) AS hour
+FROM crimedata.crimedataraw
+GROUP BY hour
+ORDER BY count(*) desc
+
+SELECT count(*), extract(dow from report_date) AS day
+FROM crimedata.crimedataraw
+GROUP BY days
+ORDER BY count(*) desc

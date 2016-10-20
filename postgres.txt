@@ -1,0 +1,477 @@
+bacula-common-pgsql - network backup service - PostgreSQL common files
+bacula-common-pgsql-dbg - network backup service - PostgreSQL common files (debugging)
+bacula-director-pgsql - network backup service - PostgreSQL storage for Director
+bacula-director-pgsql-dbg - network backup service - PostgreSQL storage for Director (debugging)
+bacula-sd-pgsql - network backup service - PostgreSQL SD tools
+bacula-sd-pgsql-dbg - network backup service - PostgreSQL SD tools (debugging)
+dbconfig-common - common framework for packaging database applications
+exim4-daemon-heavy - Exim MTA (v4) daemon with extended features, including exiscan-acl
+libapache2-mod-auth-pgsql - Module for Apache2 which provides PostgreSQL authentication
+libdbd-pgsql - PostgreSQL database server driver for libdbi
+libdbd-sqlite3-perl - Perl DBI driver with a self-contained RDBMS
+libdbi-perl - Perl Database Interface (DBI)
+libecpg-compat3 - older version of run-time library for ECPG programs
+libecpg-dev - development files for ECPG (Embedded PostgreSQL for C)
+libecpg6 - run-time library for ECPG programs
+libpgtypes3 - shared library libpgtypes for PostgreSQL 9.3
+libpq-dev - header files for libpq5 (PostgreSQL library)
+libpq5 - PostgreSQL C client library
+librdf0 - Redland Resource Description Framework (RDF) library
+libreoffice-base-drivers - Database connectvity drivers for LibreOffice
+libsasl2-modules-sql - Cyrus SASL - pluggable authentication modules (SQL)
+nova-api - OpenStack Compute - API frontend
+nova-cert - OpenStack Compute - certificate management
+nova-common - OpenStack Compute - common files
+nova-compute - OpenStack Compute - compute node base
+nova-compute-kvm - OpenStack Compute - compute node (KVM)
+nova-compute-libvirt - OpenStack Compute - compute node libvirt support
+nova-compute-lxc - OpenStack Compute - compute node (LXC)
+nova-doc - OpenStack Compute - documentation
+nova-network - OpenStack Compute - Network manager
+nova-objectstore - OpenStack Compute - object store
+nova-scheduler - OpenStack Compute - virtual machine scheduler
+nova-volume - OpenStack Compute - storage
+php5-pgsql - PostgreSQL module for php5
+php5-sqlite - SQLite module for php5
+postfix-pgsql - PostgreSQL map support for Postfix
+postgresql - object-relational SQL database (supported version)
+postgresql-9.3 - object-relational SQL database, version 9.3 server
+postgresql-9.3-dbg - debug symbols for postgresql-9.3
+postgresql-client - front-end programs for PostgreSQL (supported version)
+postgresql-client-9.3 - front-end programs for PostgreSQL 9.3
+postgresql-client-common - manager for multiple PostgreSQL client versions
+postgresql-common - PostgreSQL database-cluster manager
+postgresql-contrib - additional facilities for PostgreSQL (supported version)
+postgresql-contrib-9.3 - additional facilities for PostgreSQL
+postgresql-doc - documentation for the PostgreSQL database management system
+postgresql-doc-9.3 - documentation for the PostgreSQL database management system
+postgresql-plperl-9.3 - PL/Perl procedural language for PostgreSQL 9.3
+postgresql-plpython-9.3 - PL/Python procedural language for PostgreSQL 9.3
+postgresql-plpython3-9.3 - PL/Python 3 procedural language for PostgreSQL 9.3
+postgresql-pltcl-9.3 - PL/Tcl procedural language for PostgreSQL 9.3
+postgresql-server-dev-9.3 - development files for PostgreSQL 9.3 server-side programming
+python-djorm-ext-pgarray - PostgreSQL native array fields extension for Django
+python-logilab-common - useful miscellaneous modules used by Logilab projects
+python-migrate - Database schema migration for SQLAlchemy
+python-nova - OpenStack Compute Python libraries
+python-prettytable - library to represent tabular data in visually appealing ASCII tables
+python-psycopg2 - Python module for PostgreSQL
+python-psycopg2-dbg - Python module for PostgreSQL (debug extension)
+python-psycopg2-doc - Python module for PostgreSQL (documentation package)
+python-pygresql - PostgreSQL module for Python
+python-pygresql-dbg - PostgreSQL module for Python (debug extension)
+python3-logilab-common - useful miscellaneous modules used by Logilab projects (Python3)
+python3-prettytable - library to represent tabular data in visually appealing ASCII tables (Python3)
+python3-psycopg2 - Python 3 module for PostgreSQL
+python3-psycopg2-dbg - Python 3 module for PostgreSQL (debug extension)
+rsyslog - reliable system and kernel logging daemon
+akonadi-backend-postgresql - PostgreSQL storage backend for Akonadi
+algol68g - Implementation of Algol 68 as defined by the Revised Report
+aolserver4-nspostgres - AOLserver 4 module: Postgres connector
+apgdiff - Another PostgreSQL Diff Tool
+autopostgresqlbackup - Automated tool to make periodic backups of PostgreSQL databases
+backupninja - lightweight, extensible meta-backup system
+bandwidthd-pgsql - Tracks usage of TCP/IP and builds html files with graphs
+barman - Backup and Recovery Manager for PostgreSQL
+beancounter - A stock portfolio performance monitoring tool
+bucardo - asynchronous replication system for PostgreSQL
+cedar-backup2 - local and remote backups to CD or DVD media
+cedar-backup2-doc - local and remote backups to CD or DVD media (documentation)
+check-postgres - script for monitoring PostgreSQL databases
+cl-pg - Common Lisp library that provides a socket level postgresql interface
+cl-sql-postgresql - CLSQL database backend, PostgreSQL via library
+cl-sql-postgresql-socket - CLSQL database backend, PostgreSQL via sockets
+cl-sql-tests - Testing suite for CLSQL
+clisp-module-postgresql - clisp module that adds a PostgreSQL interface
+collectd-core - statistics collection and monitoring daemon (core system)
+courier-authlib-postgresql - PostgreSQL support for the Courier authentication library
+courier-webadmin - Courier mail server - web-based administration frontend
+cvm-pgsql - Credential Validation Modules (PostgreSQL)
+dovecot-pgsql - secure POP3/IMAP server - PostgreSQL support
+dpm-copy-server-postgres - DPM copy server with postgres database backend
+dpm-name-server-postgres - DPM nameserver server with postgres database backend
+dpm-server-postgres - Disk Pool Manager (DPM) server with postgres database backend
+dpm-srm-server-postgres - DPM SRM server with postgres database backend
+dspam-webfrontend - Webfrontend for DSPAM anti-spam filter
+dsyslog-module-postgresql - advanced modular syslog daemon - PostgreSQL support
+ecpg-xc - Postgres-XC version of ECPG (Embedded PostgreSQL for C)
+eekboek - Bookkeeping software for small and medium-size businesses
+eekboek-db-postgresql - PostgreSQL database driver for EekBoek
+falconpl-dbi-postgresql - PostgreSQL database abstraction layer for Falcon P.L
+ferret - CASE tool for data model editing
+fp-units-db - Free Pascal - database-library units dependency package
+fp-units-db-2.6.2 - Free Pascal - database-library units
+freeradius-postgresql - PostgreSQL module for FreeRADIUS server
+fsgateway - FUSE module to browse database's metadata, sugar datastores and xml files
+gambas3 - Complete visual development environment for Gambas
+gambas3-gb-db-postgresql - PostgreSQL driver for the Gambas database component
+gnokii-smsd-pgsql - SMSD plugin for PostgreSQL storage backend
+gnumed-server - medical practice management - server
+gnustep-dl2-postgresql-adaptor - gnustep-dl2 adaptor to connect to PostgreSQL
+golang-pq-dev - pure Go postgres driver for Go’s database/sql package
+gsql-postgresql-engine - PostgreSQL engine for GSQL
+guile-pg - Guile bindings for the PostgreSQL client library
+hobbit-plugins - plugins for the Xymon network monitor
+hoteldruid - web-based property management system for hotels or B&Bs
+hydra - very fast network logon cracker
+hydra-gtk - very fast network logon cracker - GTK+ based GUI
+imposm - importer for OpenStreetMap data
+jffnms - PHP Network Management System
+kamailio-postgres-modules - PostgreSQL database connectivity module for Kamailio
+kexi-postgresql-driver - PostgreSQL support for kexi
+lfc-server-postgres - LCG File Catalog (LFC) server with postgres database backend
+libalog0.4.1-full - Logging framework for Ada (full)
+libalog0.4.1-full-dbg - Logging framework for Ada (debug)
+libalog0.4.1-full-dev - Logging framework for Ada (development)
+libanyevent-dbd-pg-perl - AnyEvent interface to DBD::Pg's async interface
+libapq-postgresql3.2.0 - APQ Ada 95 Postgresql Binding Plugin (library)
+libapq-postgresql3.2.0-dbg - APQ Ada 95 Postgresql Binding Plugin (debug)
+libapq-postgresql3.2.0-dev - APQ Ada 95 Postgresql Binding Plugin (development)
+libapq3.2.0 - Pluggable Ada 95 Binding to various database systems (library)
+libapq3.2.0-dbg - Pluggable Ada 95 Binding to various database systems (debug)
+libapq3.2.0-dev - Pluggable Ada 95 Binding to various database systems (development)
+libaprutil1-dbd-pgsql - Apache Portable Runtime Utility Library - PostgreSQL Driver
+libclass-dbi-loader-perl - Perl module for dynamic definition of Class::DBI sub classes
+libclass-dbi-pg-perl - Class::DBI extension for Postgres
+libdatetime-format-dbi-perl - abstraction layer for DateTime over some database vendors
+libdatetime-format-pg-perl - module for parsing and formatting PostgreSQL dates and times
+libdbd-pg-perl - Perl DBI driver for the PostgreSQL database server
+libdbd-sqlite2-perl - Perl DBI driver with a self-contained RDBMS (SQLite2 version)
+libdbix-class-perl - extensible and flexible object <-> relational mapper
+libdbix-class-schema-loader-perl - module to automate definition of a DBIx::Class::Schema
+libdbix-datasource-perl - database-independent module to create and drop functions
+libdbix-dbschema-perl - Perl module to manipulate schemas independently of databases
+libdbix-introspector-perl - module to detect what database code is connected to
+libdspam7-drv-pgsql - PostgreSQL backend for DSPAM anti-spam filter
+libeigenbase-farrago-java - Java framework for constructing RDBMS services
+libgda-5.0-postgres - PostgreSQL provider for libgda database abstraction library
+libghc-haskelldb-hdbc-postgresql-dev - HaskellDB support for the HDBC PostgreSQL driver
+libghc-haskelldb-hdbc-postgresql-doc - HaskellDB support for the HDBC PostgreSQL driver; documentation
+libghc-haskelldb-hdbc-postgresql-prof - HaskellDB support for the HDBC PostgreSQL driver; profiling libraries
+libghc-hdbc-dev - Haskell Database Connectivity, GHC package
+libghc-hdbc-doc - Haskell Database Connectivity, Documentation
+libghc-hdbc-odbc-dev - unixODBC HDBC (Haskell Database Connectivity) Driver for GHC
+libghc-hdbc-odbc-doc - unixODBC HDBC (Haskell Database Connectivity) Documentation
+libghc-hdbc-odbc-prof - unixODBC Haskell Database Connectivity Driver; profiling libraries
+libghc-hdbc-postgresql-dev - PostgreSQL HDBC (Haskell Database Connectivity) Driver for GHC
+libghc-hdbc-postgresql-doc - PostgreSQL HDBC (Haskell Database Connectivity) documentation
+libghc-hdbc-postgresql-prof - PostgreSQL HDBC Driver for GHC; profiling libraries
+libghc-hdbc-sqlite3-dev - Sqlite v3 HDBC (Haskell Database Connectivity) Driver for GHC
+libghc-hdbc-sqlite3-doc - Sqlite v3 HDBC (Haskell Database Connectivity) Documentation
+libghc-hdbc-sqlite3-prof - Sqlite v3 HDBC Driver for GHC; profiling libraries
+libghc-highlighting-kate-dev - syntax highlighting library based on Kate syntax descriptions
+libghc-highlighting-kate-doc - library documentation for highlighting-kate; documentation
+libghc-highlighting-kate-prof - highlighting-kate library with profiling enabled; profiling libraries
+libghc-hsql-dev - Multi-Database Interface System library for GHC
+libghc-hsql-doc - API documentation of the HSQL library for Haskell
+libghc-hsql-odbc-dev - UnixODBC driver of the HSQL library for GHC
+libghc-hsql-odbc-doc - API documentation of the hsql-odbc library for Haskell
+libghc-hsql-odbc-prof - UnixODBC driver of the HSQL profiling library for GHC
+libghc-hsql-postgresql-dev - PostgreSQL driver of the HSQL library for GHC
+libghc-hsql-postgresql-doc - API documentation of the hsql-postgresql library for Haskell
+libghc-hsql-postgresql-prof - PostgreSQL driver of the HSQL library for GHC; profiling libraries
+libghc-hsql-prof - Multi-Database Interface System profiling library for GHC
+libghc-hsql-sqlite3-dev - SQLite driver of the HSQL library for GHC
+libghc-hsql-sqlite3-doc - API documentation of the hsql-sqlite3 library for Haskell
+libghc-hsql-sqlite3-prof - SQLite driver of the HSQL profiling library for GHC
+libghc-persistent-postgresql-dev - backend for the persistent library using PostgreSQL
+libghc-persistent-postgresql-doc - backend for the persistent library using PostgreSQL; documentation
+libghc-persistent-postgresql-prof - backend for the persistent library using PostgreSQL; profiling libraries
+libghc-postgresql-libpq-dev - low-level binding to libpq
+libghc-postgresql-libpq-doc - low-level binding to libpq; documentation
+libghc-postgresql-libpq-prof - low-level binding to libpq; profiling libraries
+libghc-postgresql-simple-dev - mid-level PostgreSQL client library
+libghc-postgresql-simple-doc - mid-level PostgreSQL client library; documentation
+libghc-postgresql-simple-prof - mid-level PostgreSQL client library; profiling libraries
+libkaya-pgsql-dev - PostgreSQL binding for kaya
+libkiokudb-backend-dbi-perl - DBI backend for KiokuDB
+liblwgeom-2.1.2 - PostGIS "Lightweight Geometry" library
+liblwgeom-dev - PostGIS "Lightweight Geometry" library - Development files
+libnetsds-perl - Service Delivery Suite framework
+libnss-pgsql2 - NSS module for using PostgreSQL as a naming service
+libopendbx1-pgsql - PostgreSQL backend for OpenDBX
+libopenrpt-dev - graphical SQL report writer, designer and rendering engine (development)
+libopenrpt1 - graphical SQL report writer, designer and rendering library
+libpam-pgsql - PAM module to authenticate using a PostgreSQL database
+libpg-hstore-perl - Perl module for working with PostgreSQLs HSTORE data type
+libpg-java - Transitional package for libpostgresql-jdbc-java
+libpg-perl - Perl modules for PostgreSQL
+libpgocaml-ocaml - OCaml type-safe bindings for PostgreSQL (runtime)
+libpgocaml-ocaml-dev - OCaml type-safe bindings for PostgreSQL (development)
+libpgpool-dev - pgpool control protocol library - headers
+libpgpool0 - pgpool control protocol library
+libpgsql-9.3-asn1oid - ASN.1 OID data type for PostgreSQL
+libpgtcl - Tcl client library binding for PostgreSQL
+libpgtcl-dev - Tcl client library binding for PostgreSQL - development files
+libphp-adodb - ADOdb database abstraction layer for PHP
+libpostgis-java - Geographic objects support for PostgreSQL -- JDBC support
+libpostgresql-gst - PostgreSQL bindings for GNU Smalltalk
+libpostgresql-jdbc-java - Java database (JDBC) driver for PostgreSQL
+libpostgresql-jdbc-java-doc - Java database (JDBC) driver for PostgreSQL (documentation)
+libpostgresql-ocaml - OCaml bindings to PostgreSQL's libpq (runtime)
+libpostgresql-ocaml-dev - OCaml bindings to PostgreSQL's libpq
+libpqxx-3.1 - C++ library to connect to PostgreSQL
+libpqxx-3.1-dbg - C++ library to connect to PostgreSQL (debugging symbols)
+libpqxx-4.0 - C++ library to connect to PostgreSQL
+libpqxx-dbg - C++ library to connect to PostgreSQL (debugging symbols)
+libpqxx-dev - C++ library to connect to PostgreSQL (development files)
+libpqxx-doc - C++ library to connect to PostgreSQL (documentation)
+libpqxx3-dev - C++ library to connect to PostgreSQL (development files)
+libpqxx3-doc - C++ library to connect to PostgreSQL (documentation)
+libqt4-sql-psql - Qt 4 PostgreSQL database driver
+libqt5sql5-psql - Qt 5 PostgreSQL database driver
+librdf-storage-postgresql - RDF library, PostGreSQL backend
+libreoffice-sdbc-postgresql - PostgreSQL SDBC driver for LibreOffice
+libsphinx-ruby - Fast standalone full-text SQL search engine - Client library
+libsphinxclient-0.0.1 - Fast standalone full-text SQL search engine - Client library
+libsphinxclient-dev - Fast standalone full-text SQL search engine - Client library
+libsql-reservedwords-perl - Perl extension that indicates if words are reserved by SQL
+libtap-parser-sourcehandler-pgtap-perl - Unit testing tools for pgTAP
+libterralib - C++ library for Geographical Information Systems
+libterralib-dev - C++ library for Geographical Information Systems -- development package
+libterralib-doc - C++ library for Geographical Information Systems -- documentation package
+libtntdb-dev - Development headers for tntdb
+libtntdb4 - C++ class library for easy database access
+libur-perl - object/relation mapper library
+libuser-simple-perl - module for simple user sessions management
+libwtdbopostgres-dev - PostgreSQL backend for Wt::Dbo [development]
+libwtdbopostgres35 - PostgreSQL backend for Wt::Dbo [runtime]
+libxtuplecommon-dev - multi-user accounting / CRM / ERP suite (development package)
+libxtuplecommon1 - multi-user accounting / CRM / ERP suite (shared libraries)
+libzdb-dev - Zild Database Library
+libzdb9 - Zild Database Library
+ltsp-cluster-control - Web based thin-client configuration management
+lua-dbi-postgresql - DBI library for the Lua language, PostgreSQL backend
+lua-dbi-postgresql-dbg - DBI library for the Lua language, PostgreSQL backend debug symbols
+lua-dbi-postgresql-dev - DBI library for the Lua language, PostgreSQL development files
+lua-sql-postgres - luasql library for the Lua language
+lua-sql-postgres-dev - luasql development files for the Lua language
+mini-dinstall - daemon for updating Debian packages in a repository
+monodevelop-database - Database plugin for MonoDevelop
+nanoweb - HTTP server written in PHP
+node-pg - PostgreSQL client library for Node
+nova-ajax-console-proxy - OpenStack Compute - AJAX console proxy - transitional package
+nova-api-ec2 - OpenStack Compute - EC2 API frontend
+nova-baremetal - Openstack Compute - baremetal virt
+nova-cells - Openstack Compute - cells
+nova-compute-qemu - OpenStack Compute - compute node (QEmu)
+nova-compute-vmware - OpenStack Compute - compute node (VMware)
+nova-compute-xen - OpenStack Compute - compute node (Xen)
+nova-conductor - OpenStack Compute - conductor service
+nova-console - OpenStack Compute - Console
+nova-consoleauth - OpenStack Compute - Console Authenticator
+nova-novncproxy - OpenStack Compute - NoVNC proxy
+nova-spiceproxy - OpenStack Compute - spice html5 proxy
+nova-xvpvncproxy - OpenStack Compute - XVP VNC proxy
+nuauth-log-pgsql - The authenticating firewall [PostgreSQL log module]
+nurpawiki - Wiki with integrated to-do list and scheduler
+oar-server-pgsql - OAR batch scheduler PostgreSQL server backend package
+oar-user-pgsql - OAR batch scheduler PostgreSQL user backend package
+odbc-postgresql - ODBC driver for PostgreSQL
+odbc-postgresql-dbg - ODBC driver for PostgreSQL - debug symbols
+openrpt - graphical SQL report writer, designer and rendering engine
+osm2pgsql - OpenStreetMap data to PostgreSQL converter
+papercut - simple and extensible NNTP server
+pdns-backend-pgsql - generic PostgreSQL backend for PowerDNS
+perdition - POP3 and IMAP4 Proxy server
+perdition-postgresql - Library to allow perdition to access PostgreSQL based popmaps
+pfm - PostgreSQL graphical client using Tcl/Tk
+pg-activity - Realtime PostgreSQL database server monitoring tool
+pgadmin3 - graphical administration tool for PostgreSQL
+pgadmin3-data - graphical administration tool for PostgreSQL - documentation
+pgadmin3-dbg - graphical administration tool for PostgreSQL (debugging symbols)
+pgagent - job scheduler for PostgreSQL
+pgbadger - Fast PostgreSQL log analysis report
+pgbouncer - lightweight connection pooler for PostgreSQL
+pgdbf - converter of XBase / FoxPro tables to PostgreSQL
+pgfouine - PostgreSQL log analyzer
+pgloader - loads flat data files into PostgreSQL
+pgpool2 - connection pool server and replication proxy for PostgreSQL
+pgreplay - replay PostgreSQL log files
+pgsnap - PostgreSQL report tool
+pgstaging - setup and maintain your staging environments from your production backups
+pgstaging-client - client script for pgstaging
+pgtap - Unit testing framework for PostgreSQL
+pgtop - PostgreSQL performance monitoring tool akin to top
+pgtune - PostgreSQL config tuner
+pgxnclient - command line client for the PostgreSQL Extension Network
+php-mdb2-driver-pgsql - PHP PEAR module to provide a PostgreSQL driver for MDB2
+php5-adodb - Extension optimising the ADOdb database abstraction library
+phppgadmin - web-based administration tool for PostgreSQL
+pike7.8-core - Powerful interpreted programming language
+pike7.8-pg - PostgreSQL modules for Pike
+postbooks - multi-user accounting / CRM / ERP suite (GUI)
+postbooks-schema-demo - multi-user accounting / CRM / ERP suite (demo database)
+postbooks-schema-empty - multi-user accounting / CRM / ERP suite (empty database)
+postbooks-schema-quickstart - multi-user accounting / CRM / ERP suite (quickstart database)
+postbooks-updater - multi-user accounting / CRM / ERP suite (database update manager)
+postfix-cluebringer-pgsql - metapackage for postgresql support in postfix-cluebringer
+postgis - Geographic objects support for PostgreSQL
+postgis-doc - Geographic objects support for PostgreSQL -- documentation
+postgres-xc - write-scalable, synchronous multi-master, transparent PostgreSQL cluster
+postgres-xc-client - front-end programs for Postgres-XC
+postgres-xc-contrib - additional facilities for Postgres-XC
+postgres-xc-dbg - debug symbols for postgres-xc
+postgres-xc-doc - documentation for the Postgres-XC cluster
+postgres-xc-plperl - PL/Perl procedural language for Postgres-XC
+postgres-xc-plpython - PL/Python procedural language for Postgres-XC
+postgres-xc-pltcl - PL/Tcl procedural language for Postgres-XC
+postgres-xc-server-dev - development files for Postgres-XC server-side programming
+postgresql-9.3-debversion - Debian version number type for PostgreSQL
+postgresql-9.3-ip4r - IPv4 and IPv6 types for PostgreSQL 9.3
+postgresql-9.3-orafce - Oracle support functions for PostgreSQL 9.3
+postgresql-9.3-pgfincore - set of PostgreSQL functions to manage blocks in memory
+postgresql-9.3-pgmemcache - PostgreSQL interface to memcached
+postgresql-9.3-pgmp - arbitrary precision integers and rationals for PostgreSQL 9.3
+postgresql-9.3-pgpool2 - connection pool server and replication proxy for PostgreSQL - modules
+postgresql-9.3-pllua - Lua procedural language for PostgreSQL 9.3
+postgresql-9.3-plproxy - database partitioning system for PostgreSQL 9.3
+postgresql-9.3-plr - Procedural language interface between PostgreSQL and R
+postgresql-9.3-plsh - PL/sh procedural language for PostgreSQL 9.3
+postgresql-9.3-plv8 - Procedural language interface between PostgreSQL and JavaScript
+postgresql-9.3-postgis-2.1 - Geographic objects support for PostgreSQL 9.3
+postgresql-9.3-postgis-2.1-scripts - PostGIS for PostgreSQL 9.3 -- scripts -- dummy package
+postgresql-9.3-postgis-scripts - Geographic objects support for PostgreSQL 9.3 -- scripts
+postgresql-9.3-prefix - Prefix Range module for PostgreSQL
+postgresql-9.3-preprepare - pre prepare your PostgreSQL statements server side
+postgresql-9.3-repmgr - replication manager support modules for PostgreSQL 9.3
+postgresql-9.3-slony1-2 - replication system for PostgreSQL: PostgreSQL 9.3 server plug-in
+postgresql-autodoc - Utility to create a PostgreSQL database schema overview in HTML, DOT and XML
+postgresql-comparator - efficient PostgreSQL table content comparison and synchronization
+postgresql-hll - HyperLogLog extension for PostgreSQL
+postgresql-plperl-9.1 - PL/Perl procedural language for PostgreSQL 9.1
+postgresql-prioritize - Get and set the nice priorities of PostgreSQL backends
+postgresql-server-dev-all - extension build tool for multiple PostgreSQL versions
+proftpd-mod-pgsql - Versatile, virtual-hosting FTP daemon - PostgreSQL module
+puppet-module-puppetlabs-postgresql - Puppet module for PostgreSQL database
+pure-ftpd-postgresql - Secure and efficient FTP server with PostgreSQL user authentication
+pybit-common - Common objects for pybit
+python-imposm - importer for OpenStreetMap data - Python module
+python-setproctitle - A setproctitle implementation for Python
+python-sphinxapi - Fast standalone full-text SQL search engine - Client library
+python-storm - object-relational mapper (ORM) for Python
+python-storm-dbg - object-relational mapper (ORM) for Python - debugging files
+python3-postgresql - pgsql driver, cluster management tools, and client tools
+qgis - Geographic Information System (GIS)
+r-cran-rodbc - GNU R package for ODBC database access
+ratbox-services-pgsql - IRC services for use with ircd-ratbox with the PostgreSQL backend
+redmine-pgsql - metapackage providing PostgreSQL dependencies for Redmine
+refdb-server - Reference database and bibliography tool - sql server
+repmgr - replication manager for PostgreSQL
+repmgr-dbg - debug symbols for repmgr
+request-tracker4 - extensible trouble-ticket tracking system
+rfc5766-turn-server - TURN and STUN server for VoIP
+root-plugin-sql-pgsql - PostgreSQL client plugin for ROOT
+roundcube-pgsql - metapackage providing PostgreSQL dependencies for RoundCube
+rsyslog-pgsql - PostgreSQL output plugin for rsyslog
+rt4-db-postgresql - PostgreSQL database backend for request-tracker4
+rt4-db-sqlite - SQLite database backend for request-tracker4
+ruby-dataobjects - Unified interface to various databases for Ruby
+ruby-dataobjects-postgres - PostgreSQL adapter for ruby-dataobjects
+ruby-dbd-pg - Ruby/DBI PostgreSQL driver
+ruby-foreigner - Foreign Keys for Rails
+ruby-pg - PostgreSQL interface for Ruby
+ruby-sequel - Simple, flexible, and powerful SQL database access toolkit for Ruby
+ruby-sequel-pg - Faster SELECTs when using Sequel with pg
+sagan - Real-time System & Event Log Monitoring System
+sagan-rules - Real-time System & Event Log Monitoring System [rules]
+sgml-spell-checker - spell checker for SGML documents
+sisu-complete - installs all SiSU related packages
+sisu-postgresql - SiSU dependencies for use with PostgreSQL database
+skytools - Database management tools for PostgreSQL
+skytools-modules-9.3 - PostgreSQL 9.3 modules for skytools
+slony1-2-bin - replication system for PostgreSQL: daemon and administration tools
+slony1-2-doc - Slony-I documentation
+sphinxsearch - Fast standalone full-text SQL search engine
+spl-core - SPL Programming Language
+spl-postgres - SPL Programming Language -- postgres adapter
+sqlgrey - Postfix Greylisting Policy Server
+sympa - Modern mailing list manager
+syslog-ng - Enhanced system logging daemon (metapackage)
+syslog-ng-core - Enhanced system logging daemon (core)
+syslog-ng-dbg - Enhanced system logging daemon (debug symbols)
+syslog-ng-dev - Enhanced system logging daemon (development files)
+syslog-ng-mod-amqp - Enhanced system logging daemon (AMQP plugin)
+syslog-ng-mod-basicfuncs-plus - Enhanced system logging daemon (extra template functions)
+syslog-ng-mod-geoip - Enhanced system logging daemon (GeoIP plugin)
+syslog-ng-mod-json - Enhanced system logging daemon (JSON plugin)
+syslog-ng-mod-mongodb - Enhanced system logging daemon (MongoDB plugin)
+syslog-ng-mod-redis - Enhanced system logging daemon (Redis plugin)
+syslog-ng-mod-riemann - Enhanced system logging daemon (Riemann destination)
+syslog-ng-mod-rss - Enhanced system logging daemon (RSS destination)
+syslog-ng-mod-smtp - Enhanced system logging daemon (SMTP plugin)
+syslog-ng-mod-sql - Enhanced system logging daemon (SQL plugin)
+syslog-ng-mod-stomp - Enhanced system logging daemon (STOMP plugin)
+syslog-ng-mod-trigger - Enhanced system logging daemon (trigger source)
+tarantool-postgresql-plugin - Tarantool in-memory database - PostgreSQL connector
+tcl8.6-tdbc-postgres - Tcl Database Connectivity
+tntdb-postgresql4 - PostgreSQL backend for tntdb database access library
+tora - graphical toolkit for database developers and administrators
+tora-dbg - graphical toolkit for database developers and administrators - debugging symbols
+tryton-client - Tryton Application Platform (Client)
+tryton-client-doc - Tryton Application Platform (Client Documentation)
+tryton-modules-account - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-be - Tryton Application Platform (Financial and Accounting Module for Belgium)
+tryton-modules-account-de-skr03 - Tryton Application Platform (Financial and Accounting Module for Germany)
+tryton-modules-account-invoice - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-invoice-history - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-invoice-line-standalone - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-product - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-statement - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-all - Tryton Application Platform (modules metapackage)
+tryton-modules-analytic-account - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-analytic-invoice - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-analytic-purchase - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-analytic-sale - Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-calendar - Tryton Application Platform (Calendar Module)
+tryton-modules-calendar-classification - Tryton Application Platform (Calendar Classification Module)
+tryton-modules-calendar-scheduling - Tryton Application Platform (Calendar Scheduling Module)
+tryton-modules-calendar-todo - Tryton Application Platform (Calendar Todo Module)
+tryton-modules-company - Tryton Application Platform (Company Module)
+tryton-modules-company-work-time - Tryton Application Platform (Company Work Time Module)
+tryton-modules-country - Tryton Application Platform (Country Module)
+tryton-modules-currency - Tryton Application Platform (Currency Module)
+tryton-modules-dashboard - Tryton Application Platform (Dashboard Module)
+tryton-modules-google-maps - Tryton Application Platform (Google Maps Module)
+tryton-modules-ldap-authentication - Tryton Application Platform (LDAP Authentication Module)
+tryton-modules-ldap-connection - Tryton Application Platform (LDAP Connection Module)
+tryton-modules-party - Tryton Application Platform (Party Module)
+tryton-modules-party-siret - Tryton Application Platform (Party SIRET/SIREN Module)
+tryton-modules-party-vcarddav - Tryton Application Platform (Party CardDAV Module)
+tryton-modules-product - Tryton Application Platform (Product Module)
+tryton-modules-product-cost-fifo - Tryton Application Platform (Product Cost FIFO Module)
+tryton-modules-product-cost-history - Tryton Application Platform (Product Cost History Module)
+tryton-modules-product-price-list - Tryton Application Platform (Product Price List Module)
+tryton-modules-project - Tryton Application Platform (Project Module)
+tryton-modules-project-plan - Tryton Application Platform (Project Plan Module)
+tryton-modules-project-revenue - Tryton Application Platform (Project Revenue Module)
+tryton-modules-purchase - Tryton Application Platform (Purchase Module)
+tryton-modules-purchase-invoice-line-standalone - Tryton Application Platform (Purchase Module)
+tryton-modules-sale - Tryton Application Platform (Sale Module)
+tryton-modules-sale-opportunity - Tryton Application Platform (Sale Opportunity Module)
+tryton-modules-sale-price-list - Tryton Application Platform (Sale Price List Module)
+tryton-modules-stock - Tryton Application Platform (Stock Module)
+tryton-modules-stock-forecast - Tryton Application Platform (Stock Forecast Module)
+tryton-modules-stock-inventory-location - Tryton Application Platform (Stock Inventory Location Module)
+tryton-modules-stock-location-sequence - Tryton Application Platform (Stock Location Sequence Module)
+tryton-modules-stock-lot - Tryton Application Platform (Stock Lot Module)
+tryton-modules-stock-product-location - Tryton Application Platform (Stock Product Location Module)
+tryton-modules-stock-supply - Tryton Application Platform (Stock Supply Module)
+tryton-modules-stock-supply-day - Tryton Application Platform (Stock Supply Day Module)
+tryton-modules-timesheet - Tryton Application Platform (Timesheet Module)
+tryton-modules-timesheet-cost - Tryton Application Platform (Timesheet Cost Module)
+tryton-neso - Tryton Application Platform (Standalone Client/Server)
+tryton-proteus - Tryton Application Platform (Proteus)
+tryton-server - Tryton Application Platform (Server)
+tryton-server-doc - Tryton Application Platform (Server Documentation)
+tsung - distributed multi-protocol load testing tool
+ulogd2 - Netfilter Userspace Logging Daemon
+ulogd2-pgsql - PostgreSQL extension to ulogd
+uwsgi-infrastructure-plugins - infrastructure plugins for uWSGI
+uwsgi-plugin-emperor-pg - Emperor PostgreSQL plugin for uWSGI
+vbackup - modular backup utility
+vmm - manage mail domains/accounts/aliases for Dovecot and Postfix
+vmm-doc - Documentation for the Virtual Mail Manager
+yate-pgsql - PostgreSQL module for yate
+zabbix-proxy-pgsql - network monitoring solution - proxy (using PostgreSQL)
+zabbix-server-pgsql - network monitoring solution - server (using PostgreSQL)
